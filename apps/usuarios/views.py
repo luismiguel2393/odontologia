@@ -33,3 +33,4 @@ class LogoutView(LogoutView):
     next_page = 'login'
     
 
+#lo mejor tbt
